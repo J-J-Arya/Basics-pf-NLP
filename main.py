@@ -1,3 +1,7 @@
+#The cat was in the box. NOWW the box is empty, Is The cat dead? 
+#Use the above example for cleaning
+
+
 import streamlit as st
 import nltk
 from nltk.tokenize import TreebankWordTokenizer
